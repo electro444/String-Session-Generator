@@ -83,8 +83,8 @@ START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
         "Hi 👋\n\n"
-        "Its me String Session Generator . I am powerfull string session Generator bot . I can generate pyrogram session string for your Telegram account.\n\n"
-        "Powered by @DevelopedBots \n\n"
+        "I Am EO String Session Generator . I am powerfull string session Generator bot . I can generate pyrogram session string for your Telegram account.\n\n"
+        "Powered by @ELECTRO_444 \n\n"
         "➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n"
     )
 )
