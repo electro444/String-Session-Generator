@@ -83,8 +83,8 @@ START_OTHER_USERS_TEXT = get_config(
     "START_OTHER_USERS_TEXT",
     (
         "Hi 👋\n\n"
-        "I Am EO String Session Generator . I am powerfull string session Generator bot . I can generate pyrogram session string for your Telegram account.\n\n"
-        "Powered by @eofamilyff \n\n"
+        "I Am PF SESSION STRING GENERATOR . I am powerfull string session Generator bot . I can generate pyrogram session string for your Telegram account.\n\n"
+        "Powered by @pffamilyff \n\n"
         "➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n\n"
     )
 )
@@ -137,5 +137,5 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 💖\n\n"
     "👆👆👆 String session successfully generated 👆👆👆\n\n"
-    "Bot developed by @ELECTRO_444 👨‍💻"
+    "Bot developed by @POKECHU_FF 👨‍💻"
 ))
